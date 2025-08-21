@@ -6,17 +6,17 @@
 
 # 👋 Hi, I’m Tony  
 
-Frontend developer building clean, responsive web apps that don’t just work — they look good too.  
+Frontend developer building clean, responsive web apps that don’t just work.. They look good too.  
 Strong in modern frontend frameworks, with a solid understanding of backend to connect it all together if necessary.
 
 ---
 
-## ⚡ About Me
+##  About Me
 - 🍕 Fueled by pizza, coffee, and occasional debugging tears  
 - 🐛 Experienced bug hunter (sometimes they even get fixed)  
 - 💻 Big on clean UI, smooth UX, and maintainable code  
-- 🚀 Always learning, shipping, and breaking things in the name of progress (Joking future clients.. I promise)
-- 🏋️ Into fitness & exercise — keeps me sharp inside and outside of work  
+- 🚀 Always learning, shipping, and breaking things in the name of progress.. Joking..
+- 🏋️ Into fitness & exercise - keeps me sharp inside and outside of work  
 
 ---
 
