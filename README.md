@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+%26+Creating;&background=0D1117&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+%26+Creating;&repeat=true" alt="Typing SVG" />
 </p>
+
 
 
 
