@@ -15,7 +15,7 @@ Strong in modern frontend frameworks, with a solid understanding of backend to c
 - 🍕 Fueled by pizza, coffee, and occasional debugging tears  
 - 🐛 Experienced bug hunter (sometimes they even get fixed)  
 - 💻 Big on clean UI, smooth UX, and maintainable code  
-- 🚀 Always learning, shipping, and breaking things in the name of progress
+- 🚀 Always learning, shipping, and breaking things in the name of progress (Joking future clients.. I promise)
 - 🏋️ Into fitness & exercise — keeps me sharp inside and outside of work  
 
 ---
