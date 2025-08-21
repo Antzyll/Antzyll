@@ -4,7 +4,10 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&width=600&lines=Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+%26+Creating)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+%26+Creating;&background=0D1117&repeat=true" alt="Typing SVG" />
+</p>
+
 
 
 # 👋 Hi, I’m Tony  
