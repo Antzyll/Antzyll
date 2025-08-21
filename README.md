@@ -54,7 +54,11 @@ Strong in modern frontend frameworks, with a solid understanding of backend to c
 
 ---
 
-## 🎯 Current Focus
-- Building modern web applications with React & Next.js  
-- Expanding full-stack skills while keeping UIs polished  
-- Mixing in design and AI experiments because why not?!
+## 🎯 What I'm Into Right Now
+
+- Crafting **React/Next.js** web apps with smooth, responsive UIs
+- Levelling up my **full-stack game** - backend logic, data flows, auth, the works
+- Merging design and code - clean visuals, thoughtful UX, and fast front-ends
+- Tinkering with **AI-powered features** and local tools like **ComfyUI**
+- Basically: building things that work well, look good, and feel intuitive
+
