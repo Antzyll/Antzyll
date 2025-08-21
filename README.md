@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Anthony%20Lockett%20|%20Frontend%20Developer&fontSize=32&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Anthony%20Lockett&fontSize=40&fontColor=fff&animation=fadeIn)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&width=600&lines=Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+%26+Creating)](https://git.io/typing-svg)
 
