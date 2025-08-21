@@ -7,7 +7,7 @@
 # 👋 Hi, I’m Tony  
 
 Frontend developer building clean, responsive web apps that don’t just work — they look good too.  
-Strong in modern frontend frameworks, with a solid understanding of backend to connect it all together.  
+Strong in modern frontend frameworks, with a solid understanding of backend to connect it all together if necessary. 
 
 ---
 
