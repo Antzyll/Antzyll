@@ -23,12 +23,11 @@ Strong in modern frontend frameworks, with a solid understanding of backend basi
 
 ---
 
-## 📈 GitHub Stats
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antzyll&show_icons=true&theme=tokyonight)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antzyll&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Antzyll&theme=tokyonight&hide_border=true)  
 
 ---
 
