@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/gZuf6ZO.png" alt="Anthony Lockett Banner" width="100%" />
+  <img src="https://i.imgur.com/76NPLNw.png" alt="Anthony Lockett Banner" style="max-width:100%; height:auto;" />
 </p>
+
 
 
 
