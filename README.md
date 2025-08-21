@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anthony%20Lockett&fontSize=36&fontColor=fff&animation=fadeIn)
+<p align="center">
+  <img src="https://i.imgur.com/gZuf6ZO.png" alt="Anthony Lockett Banner" width="100%" />
+</p>
+
 
 
 
