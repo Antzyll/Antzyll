@@ -14,6 +14,8 @@
 Frontend developer building clean, responsive web apps that don’t just work.. They look good too.  
 Strong in modern frontend frameworks, with a solid understanding of backend to connect it all together if necessary.
 
+Check out my recent project here : https://github.com/Antzyll/Portfolio/blob/main/Websites/ConnecQR/README.md
+
 ---
 
 ##  About Me
